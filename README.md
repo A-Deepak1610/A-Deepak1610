@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @A-Deepak1610
+- 👀 I’m interested in Full Stack
+- 🌱 I’m currently learning HTML CSS JAVA SCRIPT C REACT
+- 💞️ I’m looking to collaborate on Any one who is intersed
+- 📫 Reach me deepakarukutti@gmail.com
