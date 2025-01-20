@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @A-Deepak1610
-- 👀 I’m interested in Full Stack
-- 🌱 I’m currently learning HTML CSS JAVA SCRIPT C REACT
-- 💞️ I’m looking to collaborate on Any one who is intersed
-- 📫 Reach me deepakarukutti@gmail.com
+# 👋 Hi, I’m @A-Deepak1610
+
+- 👀 **Interested in:** Full Stack Development  
+- 🌱 **Currently learning:** HTML, CSS, JavaScript, C, and React  
+- 💞️ **Looking to collaborate on:** Exciting projects with anyone who shares similar interests  
+- 📫 **Reach me at:** [deepakarukutti@gmail.com](mailto:deepakarukutti@gmail.com)
+
+Let's build something amazing together!
