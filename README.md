@@ -10,9 +10,7 @@
 ---
 ## 📊 **GitHub Stats & Contributions**
 <div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=A-Deepak1610&theme=dark&hide_border=true)
-  
+    
   ![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Deepak1610&show_icons=true&theme=dark&hide_border=true)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Deepak1610&layout=compact&theme=dark&hide_border=true)
