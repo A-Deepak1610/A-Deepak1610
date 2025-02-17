@@ -1,14 +1,27 @@
 # 👋 Hi, I’m @A-Deepak1610
 
-- 👀 **Interested in:** Artificial Intelligence 
-- 🌱 **Currently learning:** HTML, CSS, JavaScript, C, and React  
-- 💞️ **Looking to collaborate on:** Exciting projects with anyone who shares similar interests  
-- 📫 **Reach me at:** [deepakarukutti@gmail.com](mailto:deepakarukutti@gmail.com)
+💡 **About Me:**
+- 👀 **Interested in:** Artificial Intelligence, Web Development, and Open Source  
+- 🌱 **Currently learning:** React, TailwindCSS, and Generative AI  
+- 💼 **Working on:** Real-time projects and cool AI applications  
+- 💞️ **Looking to collaborate on:** Innovative & impactful projects  
+- 📫 **Reach me at:** [deepakarukutti@gmail.com](mailto:deepakarukutti@gmail.com)  
 
-Let's build something amazing together!
+---
+## 📊 **GitHub Stats & Contributions**
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=A-Deepak1610&theme=dark&hide_border=true)
+  
+  ![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Deepak1610&show_icons=true&theme=dark&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Deepak1610&layout=compact&theme=dark&hide_border=true)
+  
+</div>
 
-## 📊 GitHub Stats
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Deepak1610&show_icons=true&theme=dark)
+---
 
-## 🚀 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Deepak1610&layout=compact&theme=dark)
+## 🌐 **Connect with Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-a-025baa329/)
+[![GitHub](https://img.shields.io/badge/GitHub-Deepak-black?logo=github)](https://github.com/A-Deepak1610)
+
