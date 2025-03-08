@@ -2,7 +2,7 @@
 
 💡 **About Me:**
 - 👀 **Interested in:** Artificial Intelligence, Web Development, and Open Source  
-- 🌱 **Currently learning:** React, TailwindCSS, and Generative AI  
+- 🌱 **Currently learning:** Full Stack and Generative AI  
 - 💼 **Working on:** Real-time projects and cool AI applications  
 - 💞️ **Looking to collaborate on:** Innovative & impactful projects  
 - 📫 **Reach me at:** [deepakarukutti@gmail.com](mailto:deepakarukutti@gmail.com)  
