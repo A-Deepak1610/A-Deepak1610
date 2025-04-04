@@ -15,9 +15,6 @@
   ![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Deepak1610&show_icons=true&theme=dark&hide_border=true)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Deepak1610&layout=compact&theme=dark&hide_border=true)
-
-  <!-- Profile Views Badge -->
-  ![Profile views](https://komarev.com/ghpvc/?username=A-Deepak1610&label=Profile%20views&color=blue&style=flat)
   
 </div>
 
