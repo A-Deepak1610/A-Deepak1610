@@ -8,12 +8,16 @@
 - 📫 **Reach me at:** [deepakarukutti@gmail.com](mailto:deepakarukutti@gmail.com)  
 
 ---
+
 ## 📊 **GitHub Stats & Contributions**
 <div align="center">
-    
+  
   ![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Deepak1610&show_icons=true&theme=dark&hide_border=true)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Deepak1610&layout=compact&theme=dark&hide_border=true)
+
+  <!-- Profile Views Badge -->
+  ![Profile views](https://komarev.com/ghpvc/?username=A-Deepak1610&label=Profile%20views&color=blue&style=flat)
   
 </div>
 
@@ -22,4 +26,3 @@
 ## 🌐 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-a-025baa329/)
 [![GitHub](https://img.shields.io/badge/GitHub-Deepak-black?logo=github)](https://github.com/A-Deepak1610)
-
