@@ -51,14 +51,12 @@
 
 <br>
 
-## 📊 GitHub Stats
-
 <div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Deepak1610&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Deepak1610&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=A-Deepak1610&show_icons=true&theme=default" />
 </div>
+
+
+
 
 <br>
 
