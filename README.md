@@ -53,7 +53,7 @@
 
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=A-Deepak1610)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=A-Deepak1610)](https://git.io/streak-stats)
 
 
 
